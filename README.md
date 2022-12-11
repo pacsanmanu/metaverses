@@ -1,2 +1,7 @@
-# metaverses
-Website about metaverses done for Markup Languages course. The requirement was not to use CSS to give styles to the web.
+# Metaverses
+
+Website about metaverses done for Markup Languages course.
+
+The requirement was not to use CSS to align items or give styles to the website, just to change text styles.
+
+The web was developed into my laptop (15.6") so it is not responsive, it has been made for this screen size.
